@@ -1,0 +1,34 @@
+<!-- res/layout/item_order.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/address_in"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Адрес отправки: "
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/address_for"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Адрес назначения: "
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Статус: "
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/delivery_duration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Время доставки: " />
+</LinearLayout>

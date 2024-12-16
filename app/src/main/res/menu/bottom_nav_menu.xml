@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/wondicon_ui_free_parcel_111208"
+        android:title="Заказ" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/delivery_truck_shipping_courier_cargo_icon_188926"
+        android:title="Взять заказ" />
+
+
+</menu>

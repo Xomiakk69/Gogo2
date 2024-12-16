@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "935098205277",
+    "firebase_url": "https://betaforall-f2f55-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "betaforall-f2f55",
+    "storage_bucket": "betaforall-f2f55.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935098205277:android:491d0f5b9aa5f8e0f539b4",
+        "android_client_info": {
+          "package_name": "com.example.betaforall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVIw4h4WdMgTDOPZKFDzS18IgIAAvCGlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
